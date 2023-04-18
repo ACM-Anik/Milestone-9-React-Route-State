@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "features": [
+        "Access to gym facilities",
+        "Limited group classes"
+      ],
+      "image": "https://example.com/basic-membership.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 49.99,
+      "features": [
+        "Access to gym facilities",
+        "Unlimited group classes",
+        "2 free personal training sessions per month"
+      ],
+      "image": "https://example.com/premium-membership.jpg"
+    },
+    {
+      "id": 3,
+      "name": "VIP Membership",
+      "price": 99.99,
+      "features": [
+        "Access to gym facilities",
+        "Unlimited group classes",
+        "4 free personal training sessions per month",
+        "Access to sauna and steam room"
+      ],
+      "image": "https://example.com/vip-membership.jpg"
+    }
+  ]
+  
